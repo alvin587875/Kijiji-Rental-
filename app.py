@@ -11,7 +11,7 @@ data = pd.read_csv('kijiji.csv', encoding='latin1')
 
 # Page 1: Dashboard
 def dashboard():
-    st.image('Logo.PNG', use_column_width=True)
+    st.image('logo.jpg', use_column_width=True)
     st.subheader("💡 Abstract:")
     inspiration = '''
 The task is to collect accurate and abundant data for small Canadian communities and derive useful insights to support their local initiatives.
