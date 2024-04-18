@@ -1,0 +1,370 @@
+CSDUID,Population,CSDNAME,Latitude,Longitude,Type,Price,Bedrooms,Bathrooms,Hydro,Heat,Water,Size,Agreement Type
+3501042,7828,North Stormont,45.2452887,-75.001594,3.0,"$1,825",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,"1,000",1 Year
+3501042,7828,North Stormont,45.1234837,-75.0924985,6.0,"$1,800",Bedrooms: 3,Bathrooms: 2,N,0.0,Y,"1,850",1 Year
+3502010,9044,Champlain,45.6192681,-74.6928116,1.0,$975,Bedrooms: 1,Bathrooms: 1,N,1.0,Y,700,1 Year
+3502010,9044,Champlain,45.6192681,-74.6928116,1.0,"$1,050",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,800,1 Year
+3502010,9044,Champlain,45.6055087,-74.5782132,4.0,"$1,650",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,"1,120",1 Year
+3502010,9044,Champlain,45.5196512,-74.6522016,1.0,"$1,150",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,1,1 Year
+3502010,9044,Champlain,45.6192681,-74.6928116,1.0,$900,Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,Month-to-month
+3502010,9044,Champlain,45.6192681,-74.6928116,1.0,$975,Bedrooms: 1,Bathrooms: 1,N,1.0,Y,700,1 Year
+3502044,3920,Casselman,45.3157884,-75.0897204,1.0,"$1,300",Bedrooms: 2,Bathrooms: 1,N,0.0,N,725,1 Year
+3502044,3920,Casselman,45.3107048,-75.0893653,1.0,"$2,500",Bedrooms: 2,Bathrooms: 1.5,Y,1.0,Y,"1,000",Month-to-month
+3502044,3920,Casselman,45.3107048,-75.0893653,1.0,"$1,650",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,300",1 Year
+3502044,3920,Casselman,45.3200344,-75.0827344,1.0,"$1,975",Bedrooms: 3 + Den,Bathrooms: 1,N,0.0,Y,"1,270",1 Year
+3502044,3920,Casselman,45.3107048,-75.0893653,1.0,"$2,250",Bedrooms: 2,Bathrooms: 1.5,Y,1.0,Y,"1,000",Month-to-month
+3502044,3920,Casselman,45.3107048,-75.0893653,2.0,"$2,850",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,400",1 Year
+3502044,3920,Casselman,45.3153603,-75.1025348,2.0,"$2,750",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,000",1 Year
+3502044,3920,Casselman,45.3107048,-75.0893653,2.0,"$2,950",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,781",1 Year
+3502044,3920,Casselman,45.3158134,-75.0986758,5.0,"$2,195",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,800",1 Year
+3507006,7304,Augusta,44.6363019,-75.6117005,1.0,"$2,400",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,600",1 Year
+3507008,4647,Prescott,44.709294,-75.518972,1.0,"$1,400",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,550,1 Year
+3507008,4647,Prescott,44.7132253,-75.5136699,6.0,"$1,800",Bedrooms: 2,Bathrooms: 1,N,0.0,N,650,1 Year
+3507008,4647,Prescott,44.7082421,-75.5184331,2.0,"$1,525",Bedrooms: 2,Bathrooms: 1,Y,0.0,N,900,1 Year
+3507014,9871,Elizabethtown-Kitley,44.6749919,-75.7333365,2.0,"$2,250",Bedrooms: 3 + Den,Bathrooms: 1.5,Y,1.0,Y,"2,000",1 Year
+3507014,9871,Elizabethtown-Kitley,44.6282791,-75.7649202,1.0,$895,Bedrooms: 1,Bathrooms: 1,N,0.0,Y,700,1 Year
+3507014,9871,Elizabethtown-Kitley,44.5764035,-75.7841209,1.0,"$1,800",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,870,1 Year
+3507014,9871,Elizabethtown-Kitley,44.6749919,-75.7333365,6.0,"$1,400",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,500,Month-to-month
+3507021,9635,Leeds and the Thousand Islands,44.3719057,-76.01635,2.0,"$1,850",Bedrooms: 2,Bathrooms: 1,N,0.0,N,850,1 Year
+3507021,9635,Leeds and the Thousand Islands,44.550535,-76.12412,2.0,"$2,900",Bedrooms: 3 + Den,Bathrooms: 3.5,N,0.0,Y,"3,900",Month-to-month
+3507024,5524,Gananoque,44.3367602,-76.1691133,2.0,"$1,680",Bedrooms: 4,Bathrooms: 1,N,0.0,Y,1,1 Year
+3507024,5524,Gananoque,44.3300472,-76.1649044,1.0,"$2,200",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,900,Month-to-month
+3507024,5524,Gananoque,44.327181,-76.1701288,1.0,"$1,350",Bedrooms: 2,Bathrooms: 1,N,0.0,N,900,1 Year
+3507024,5524,Gananoque,44.3290808,-76.1638843,1.0,"$1,500",Bedrooms: 1 + Den,Bathrooms: 1,N,0.0,N,"1,100",1 Year
+3507024,5524,Gananoque,44.3363949,-76.1527723,1.0,"$2,000",Bedrooms: 2,Bathrooms: 1,N,0.0,N,850,1 Year
+3507024,5524,Gananoque,44.3303201,-76.1705373,2.0,"$1,980",Bedrooms: 2,Bathrooms: 1,N,0.0,N,900,Month-to-month
+3507052,3378,Merrickville-Wolford,44.9125467,-75.8359387,1.0,"$1,650",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,Not Available,1 Year
+3507052,3378,Merrickville-Wolford,44.832934,-75.933972,2.0,"$1,700",Bedrooms: 2,Bathrooms: 1.5,Y,1.0,Y,"1,200",1 Year
+3509001,4221,Montague,44.9063407,-76.0052755,6.0,"$1,950",Bedrooms: 2,Bathrooms: 1,Y,0.0,Y,"1,150",1 Year
+3509001,4221,Montague,44.9015951,-76.0052481,2.0,"$2,800",Bedrooms: 4,Bathrooms: 1.5,N,0.0,Y,"1,300",1 Year
+3509004,9376,Smiths Falls,44.9074632,-76.0188706,1.0,"$1,800",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,"1,200",1 Year
+3509004,9376,Smiths Falls,44.9054731,-76.0207819,6.0,"$1,700",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,Not Available,1 Year
+3509004,9376,Smiths Falls,44.9048938,-76.0213512,1.0,"$1,300",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,600,1 Year
+3509004,9376,Smiths Falls,44.9037324,-76.0211055,1.0,"$1,250",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,700,1 Year
+3509004,9376,Smiths Falls,44.9021881,-76.0178453,1.0,"$1,599",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,875,1 Year
+3509004,9376,Smiths Falls,44.9021881,-76.0178453,1.0,"$1,599",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,875,1 Year
+3509004,9376,Smiths Falls,44.9021881,-76.0178453,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,750,1 Year
+3509004,9376,Smiths Falls,44.9021468,-76.0093988,2.0,"$2,200",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,500",1 Year
+3509004,9376,Smiths Falls,44.9017105,-76.0152777,2.0,"$2,250",Bedrooms: 4,Bathrooms: 1.5,N,0.0,N,"1,300",1 Year
+3509004,9376,Smiths Falls,44.900114,-76.016722,1.0,"$1,700",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,900,1 Year
+3509004,9376,Smiths Falls,44.8926892,-76.0201637,2.0,"$2,500",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"2,000",1 Year
+3509004,9376,Smiths Falls,44.8917203,-76.0160992,1.0,"$1,800",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,700,1 Year
+3509004,9376,Smiths Falls,44.8863859,-76.0116168,5.0,"$2,050",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,"1,650",1 Year
+3509004,9376,Smiths Falls,44.8861214,-76.0126209,4.0,"$2,095",Bedrooms: 2,Bathrooms: 2,N,0.0,Y,"2,005",1 Year
+3509004,9376,Smiths Falls,44.8935346,-76.0227903,1.0,"$1,050",Bedrooms: Bachelor/Studio,Bathrooms: 1,N,0.0,Y,450,1 Year
+3509004,9376,Smiths Falls,44.8863304,-76.0198572,1.0,"$1,950",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3509004,9376,Smiths Falls,44.9003249,-76.0209583,1.0,"$1,500",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,650,1 Year
+3509004,9376,Smiths Falls,44.8979857,-76.0097576,1.0,"$1,450",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,1,Month-to-month
+3509004,9376,Smiths Falls,44.8993491,-76.014123,1.0,"$1,650",Bedrooms: 1,Bathrooms: 1,N,0.0,N,575,1 Year
+3509004,9376,Smiths Falls,44.903748,-76.0216189,1.0,"$2,000",Bedrooms: 1,Bathrooms: 1.5,Y,1.0,Y,"1,000",Month-to-month
+3509004,9376,Smiths Falls,44.8985028,-76.0148769,1.0,"$2,500",Bedrooms: 1 + Den,Bathrooms: 1,N,1.0,Y,830,1 Year
+3509004,9376,Smiths Falls,44.8985028,-76.0148769,1.0,"$3,200",Bedrooms: 2 + Den,Bathrooms: 2,N,1.0,Y,"1,235",1 Year
+3509004,9376,Smiths Falls,44.9056442,-76.0181622,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,N,0.0,N,400,1 Year
+3509004,9376,Smiths Falls,44.9003906,-76.0215257,1.0,"$1,400",Bedrooms: 2,Bathrooms: 1,N,0.0,N,500,1 Year
+3509004,9376,Smiths Falls,44.903748,-76.0216189,1.0,"$1,050",Bedrooms: Bachelor/Studio,Bathrooms: 1,N,1.0,Y,450,1 Year
+3509004,9376,Smiths Falls,44.8852325,-76.0129163,4.0,"$1,465",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,600,1 Year
+3509004,9376,Smiths Falls,44.8863859,-76.0116168,5.0,"$1,900",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,1,1 Year
+3509004,9376,Smiths Falls,44.8849217,-76.0295733,5.0,"$2,350",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"2,300",1 Year
+3509004,9376,Smiths Falls,44.9040982,-76.0213659,5.0,"$2,250",Bedrooms: 3,Bathrooms: 1.5,Y,0.0,N,"1,200",1 Year
+3509015,5845,Tay Valley,44.8809198,-76.2585282,2.0,"$1,150",Bedrooms: 2,Bathrooms: 2.5,Y,1.0,Y,"2,400",Month-to-month
+3509021,6824,Perth,44.9158324,-76.2649881,1.0,"$2,050",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,659,1 Year
+3509021,6824,Perth,44.9094211,-76.2493473,2.0,"$2,250",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,162",1 Year
+3509021,6824,Perth,44.908259,-76.2542227,1.0,"$2,100",Bedrooms: 3,Bathrooms: 2,N,0.0,Y,"1,200",1 Year
+3509021,6824,Perth,44.906603,-76.2623281,1.0,$725,Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,190,Month-to-month
+3509021,6824,Perth,44.9021864,-76.2533037,1.0,$899,Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,1 Year
+3509021,6824,Perth,44.9021404,-76.2497449,1.0,"$2,100",Bedrooms: 3,Bathrooms: 1,N,1.0,N,"1,080",1 Year
+3509021,6824,Perth,44.9018916,-76.2452974,6.0,"$1,625",Bedrooms: 2,Bathrooms: 1.5,N,0.0,Y,"1,100",Month-to-month
+3509021,6824,Perth,44.8988097,-76.2485592,2.0,$750,Bedrooms: 4,Bathrooms: 3,Y,1.0,Y,"2,500",Month-to-month
+3509021,6824,Perth,44.8982165,-76.2527744,1.0,"$1,250",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,450,Month-to-month
+3509021,6824,Perth,44.8988097,-76.2485592,1.0,"$1,250",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,Month-to-month
+3509021,6824,Perth,44.9039275,-76.2472626,2.0,"$1,550",Bedrooms: 2,Bathrooms: 2,N,1.0,Y,Not Available,1 Year
+3509024,9172,Beckwith,45.0940335,-76.1499828,2.0,"$2,450",Bedrooms: 3 + Den,Bathrooms: 2,N,0.0,Y,"1,200",1 Year
+3509024,9172,Beckwith,45.1161185,-76.1321298,2.0,"$3,500",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"2,000",1 Year
+3509024,9172,Beckwith,45.129273,-76.1146212,5.0,"$2,350",Bedrooms: 3,Bathrooms: 3,N,0.0,N,"2,064",1 Year
+3509039,5893,Lanark Highlands,45.2609245,-76.4833771,5.0,"$2,265",Bedrooms: 2,Bathrooms: 1.5,N,1.0,Y,"1,250",1 Year
+3509039,5893,Lanark Highlands,45.0169248,-76.3662373,1.0,"$1,500",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,000",1 Year
+3509039,5893,Lanark Highlands,45.0207049,-76.4635615,1.0,"$1,330",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,1 Year
+3510005,1808,Frontenac Islands,44.1781536,-76.4232917,2.0,"$2,350",Bedrooms: 3,Bathrooms: 2,N,0.0,Y,"1,300",1 Year
+3510035,4683,Central Frontenac,44.7694959,-76.689392,2.0,$800,Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,325,1 Year
+3511035,2304,Addington Highlands,44.7345898,-77.1245957,2.0,"$1,800",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,800,Month-to-month
+3511035,2304,Addington Highlands,44.647803,-77.121419,2.0,$850,Bedrooms: 1,Bathrooms: 1,N,0.0,Y,700,1 Year
+3512020,5284,Stirling-Rawdon,44.3021721,-77.55081623,1.0,$925,Bedrooms: 1,Bathrooms: 1,N,1.0,Y,1,1 Year
+3512020,5284,Stirling-Rawdon,44.2961831,-77.5474752,2.0,"$2,695",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"1,400",1 Year
+3512020,5284,Stirling-Rawdon,44.2961831,-77.5474752,1.0,"$2,100",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,850,1 Year
+3512020,5284,Stirling-Rawdon,44.2961831,-77.5474752,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,500,1 Year
+3512020,5284,Stirling-Rawdon,44.2947665,-77.555252,2.0,"$2,000",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,"1,614",Month-to-month
+3512026,4911,Centre Hastings,44.5068726,-77.4726289,2.0,"$3,500",Bedrooms: 5+,Bathrooms: 4,N,0.0,N,"2,600",1 Year
+3512026,4911,Centre Hastings,44.5025516,-77.4757575,6.0,"$1,200",Bedrooms: 2 + Den,Bathrooms: 1,Y,1.0,Y,850,1 Year
+3512030,6393,Tweed,44.7175773,-77.4338702,6.0,"$1,360",Bedrooms: 1 + Den,Bathrooms: 1,Y,1.0,Y,800,1 Year
+3512046,4303,Marmora and Lake,44.4869907,-77.6756531,6.0,"$1,800",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,N,"1,500",1 Year
+3512046,4303,Marmora and Lake,44.482947,-77.682106,1.0,"$1,175",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,550,1 Year
+3512046,4303,Marmora and Lake,44.482947,-77.682106,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,000",Month-to-month
+3512061,4147,Bancroft,45.0558574,-77.8548814,2.0,"$2,750",Bedrooms: 3 + Den,Bathrooms: 2.5,Y,1.0,Y,"2,000",Month-to-month
+3512061,4147,Bancroft,45.0558574,-77.8548814,2.0,"$2,350",Bedrooms: 3 + Den,Bathrooms: 2,N,0.0,N,"1,500",1 Year
+3514014,6814,Cramahe,44.0067089,-77.8815509,1.0,"$1,600",Bedrooms: 1 + Den,Bathrooms: 1,N,0.0,N,700,Month-to-month
+3514024,7801,Alnwick/Haldimand,44.0583528,-78.0880129,1.0,"$1,595",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3515003,4950,Asphodel-Norwood,44.382419,-77.979918,1.0,"$1,500",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,800,1 Year
+3515003,4950,Asphodel-Norwood,44.3757039,-77.9719687,6.0,"$2,250",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3515003,4950,Asphodel-Norwood,44.382419,-77.979918,2.0,"$2,550",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,670",1 Year
+3515003,4950,Asphodel-Norwood,44.382419,-77.979918,2.0,"$2,550",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,612",1 Year
+3515005,7105,Otonabee-South Monaghan,44.3079455,-78.2362225,2.0,"$2,500",Bedrooms: 3,Bathrooms: 1.5,N,0.0,N,"1,126",1 Year
+3515005,7105,Otonabee-South Monaghan,44.2447345,-78.1678439,2.0,"$2,500",Bedrooms: 3,Bathrooms: 3,N,0.0,Y,"2,500",1 Year
+3515005,7105,Otonabee-South Monaghan,44.343814,-78.141317,2.0,"$2,000",Bedrooms: 2,Bathrooms: 1,N,0.0,N,800,1 Year
+3515030,5092,Havelock-Belmont-Methuen,44.5584341,-77.8667906,1.0,"$1,450",Bedrooms: 2,Bathrooms: 1,N,0.0,N,850,1 Year
+3515044,5869,Trent Lakes,44.6255582,-78.5087752,1.0,"$2,150",Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,360,Month-to-month
+3522001,2926,East Garafraxa,43.8745087,-80.2844218,3.0,"$1,100",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,500,Month-to-month
+3522008,4629,Amaranth,44.0126221,-80.154806,1.0,"$2,000",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,750,1 Year
+3522008,4629,Amaranth,44.0062592,-80.1679758,1.0,"$1,500",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,800,Month-to-month
+3522016,3940,Mulmur,44.197413,-80.0583819,1.0,"$2,900",Bedrooms: 2 + Den,Bathrooms: 1,Y,1.0,Y,"1,100",Month-to-month
+3523001,7634,Puslinch,43.4900953,-80.2610563,3.0,"$1,650",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,200",1 Year
+3523001,7634,Puslinch,43.4651067,-80.1372757,2.0,"$2,300",Bedrooms: 3 + Den,Bathrooms: 1,N,0.0,Y,"2,000",1 Year
+3523001,7634,Puslinch,43.432922,-80.097349,2.0,"$1,950",Bedrooms: 1,Bathrooms: 1,N,0.0,N,"1,100",1 Year
+3523001,7634,Puslinch,43.432922,-80.097349,2.0,"$3,200",Bedrooms: 4,Bathrooms: 3,N,0.0,N,"1,850",1 Year
+3523001,7634,Puslinch,43.4646186,-80.1948112,3.0,"$2,400",Bedrooms: 2,Bathrooms: 1,N,0.0,N,700,1 Year
+3523001,7634,Puslinch,43.4543559,-80.1098587,3.0,"$1,900",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,200",1 Year
+3523001,7634,Puslinch,43.432922,-80.097349,2.0,"$3,250",Bedrooms: 4,Bathrooms: 2.5,Y,1.0,Y,"2,800",1 Year
+3523001,7634,Puslinch,43.432922,-80.097349,2.0,"$3,250",Bedrooms: 4,Bathrooms: 2.5,Y,1.0,Y,"2,500",1 Year
+3523043,9652,Minto,43.8572672,-80.7879407,1.0,"$1,295",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,600,1 Year
+3523043,9652,Minto,43.8339361,-80.8461255,1.0,"$1,500",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,750,1 Year
+3526014,6914,Wainfleet,42.925755,-79.3834109,2.0,"$1,300",Bedrooms: 2 + Den,Bathrooms: 1,Y,1.0,Y,"1,000",Month-to-month
+3531013,3850,Perth South,43.4038428,-81.0616015,1.0,"$1,200",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,800,1 Year
+3531016,7916,St. Marys,43.2619202,-81.1398039,1.0,"$1,550",Bedrooms: 1,Bathrooms: 1,N,0.0,N,600,1 Year
+3531016,7916,St. Marys,43.2619202,-81.1398039,1.0,"$1,550",Bedrooms: 1,Bathrooms: 1,N,0.0,N,600,1 Year
+3531016,7916,St. Marys,43.2675408,-81.140286,2.0,$700,Bedrooms: 3,Bathrooms: 2.5,Y,1.0,Y,"1,800",Month-to-month
+3531016,7916,St. Marys,43.2675408,-81.140286,5.0,"$2,600",Bedrooms: 3,Bathrooms: 3,N,0.0,N,1,1 Year
+3531025,9672,West Perth,43.466763,-81.19611,1.0,"$1,200",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,Month-to-month
+3531025,9672,West Perth,43.466763,-81.19611,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,700,Month-to-month
+3531025,9672,West Perth,43.4680977,-81.1979393,1.0,"$1,449",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,800,1 Year
+3532012,8338,South-West Oxford,43.0249622,-80.7768613,2.0,"$3,100",Bedrooms: 4,Bathrooms: 3.5,N,0.0,N,"2,000",1 Year
+3532012,8338,South-West Oxford,43.0249622,-80.7768613,1.0,$895,Bedrooms: 1,Bathrooms: 1,N,0.0,N,450,1 Year
+3532012,8338,South-West Oxford,42.9951479,-80.7657804,5.0,"$2,600",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,600",1 Year
+3532012,8338,South-West Oxford,43.0765852,-80.7602394,2.0,"$3,000",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"2,200",1 Year
+3532012,8338,South-West Oxford,43.0765852,-80.7602394,2.0,"$3,000",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"2,200",1 Year
+3532027,9107,Zorra,43.0578881,-80.9994785,5.0,"$2,500",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,423",Month-to-month
+3532027,9107,Zorra,43.0829435,-81.0202533,1.0,"$3,000",Bedrooms: 4 + Den,Bathrooms: 4,Y,1.0,Y,"2,500",1 Year
+3532027,9107,Zorra,43.0829435,-81.0202533,3.0,"$1,300",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,800,Month-to-month
+3532027,9107,Zorra,43.0578881,-80.9994785,2.0,"$2,700",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,338",1 Year
+3532027,9107,Zorra,43.1556566,-80.9010627,2.0,"$2,100",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,200",1 Year
+3532027,9107,Zorra,43.0521061,-80.9990287,5.0,"$2,300",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,400",Month-to-month
+3532038,8270,East Zorra-Tavistock,43.3239161,-80.8339245,2.0,"$2,775",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,009",1 Year
+3532038,8270,East Zorra-Tavistock,43.2155199,-80.754698,2.0,"$3,000",Bedrooms: 5+,Bathrooms: 2,Y,1.0,Y,"3,400",1 Year
+3532038,8270,East Zorra-Tavistock,43.3188405,-80.8352309,1.0,$850,Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,650,1 Year
+3532038,8270,East Zorra-Tavistock,43.2025544,-80.6966239,2.0,"$3,000",Bedrooms: 3 + Den,Bathrooms: 2,N,0.0,N,"1,900",1 Year
+3532038,8270,East Zorra-Tavistock,43.2101343,-80.6965664,2.0,"$2,400",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,800",1 Year
+3532038,8270,East Zorra-Tavistock,43.2155199,-80.754698,2.0,"$2,700",Bedrooms: 3,Bathrooms: 3,N,0.0,N,"2,200",1 Year
+3532045,8303,Blandford-Blenheim,43.3317599,-80.593833,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,1 Year
+3532045,8303,Blandford-Blenheim,43.1664266,-80.6826254,5.0,"$2,500",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,670",1 Year
+3532045,8303,Blandford-Blenheim,43.2082785,-80.6659842,5.0,"$1,900",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,400",Month-to-month
+3534005,8458,Bayham,42.6478043,-80.8003197,2.0,"$2,400",Bedrooms: 3 + Den,Bathrooms: 1,Y,1.0,Y,"1,500",1 Year
+3534011,8274,Aylmer,42.7769012,-80.9866757,1.0,"$1,000",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,800,1 Year
+3534011,8274,Aylmer,42.7784414,-80.9879707,1.0,"$1,450",Bedrooms: 2,Bathrooms: 1,N,0.0,N,750,1 Year
+3534011,8274,Aylmer,42.7778793,-80.9879757,4.0,"$1,750",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3534024,4990,Southwold,42.7944119,-81.2849169,2.0,"$3,100",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,450",1 Year
+3534024,4990,Southwold,42.7944119,-81.2849169,2.0,"$2,700",Bedrooms: 2,Bathrooms: 2,N,0.0,N,"1,508",1 Year
+3534024,4990,Southwold,42.779457,-81.2794123,2.0,"$2,200",Bedrooms: 4,Bathrooms: 3,N,0.0,N,"2,140",1 Year
+3534024,4990,Southwold,42.779457,-81.2794123,2.0,"$2,900",Bedrooms: 4,Bathrooms: 3,Y,1.0,Y,"2,140",1 Year
+3534024,4990,Southwold,42.7944119,-81.2849169,2.0,"$3,000",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,400",1 Year
+3534042,5215,West Elgin,42.603779,-81.606653,6.0,"$1,900",Bedrooms: 3,Bathrooms: 1,N,1.0,Y,"1,800",1 Year
+3538015,2337,Brooke-Alvinston,42.8216831,-81.8662509,5.0,"$1,399",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,"1,000",1 Year
+3538015,2337,Brooke-Alvinston,42.8216831,-81.8662509,5.0,"$1,399",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,"1,000",1 Year
+3538015,2337,Brooke-Alvinston,42.8163543,-81.8626439,2.0,"$2,150",Bedrooms: 3,Bathrooms: 2,N,1.0,Y,"1,100",1 Year
+3538015,2337,Brooke-Alvinston,42.821653,-81.865349,5.0,"$1,450",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,"1,000",1 Year
+3538015,2337,Brooke-Alvinston,42.821653,-81.865349,5.0,"$1,450",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,"1,000",1 Year
+3538019,6129,Petrolia,42.8848176,-82.1493924,1.0,"$1,450",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,900,1 Year
+3538019,6129,Petrolia,42.8816227,-82.150795,6.0,"$1,500",Bedrooms: 2,Bathrooms: 1,N,0.0,N,900,1 Year
+3538019,6129,Petrolia,42.8818379,-82.1444338,1.0,"$1,450",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,850,1 Year
+3538019,6129,Petrolia,42.8818379,-82.1444338,5.0,"$1,599",Bedrooms: 2,Bathrooms: 1,N,0.0,N,"1,500",1 Year
+3538031,2019,Point Edward,43.0003448,-82.4131423,3.0,"$1,800",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3538031,2019,Point Edward,42.9980987,-82.4148572,1.0,"$1,200",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,Not Available,1 Year
+3538031,2019,Point Edward,42.9898142,-82.398172,2.0,"$2,695",Bedrooms: 4,Bathrooms: 1.5,N,0.0,N,Not Available,1 Year
+3538035,8850,Plympton-Wyoming,42.9797265,-82.1180045,2.0,"$3,000",Bedrooms: 4 + Den,Bathrooms: 2.5,N,0.0,N,"1,000",1 Year
+3538035,8850,Plympton-Wyoming,42.9576238,-82.0625052,2.0,"$2,250",Bedrooms: 2,Bathrooms: 2,N,0.0,N,"1,300",1 Year
+3539041,6741,North Middlesex,43.2148319,-81.7160897,2.0,"$4,500",Bedrooms: 4,Bathrooms: 3,N,0.0,N,"2,000",1 Year
+3539041,6741,North Middlesex,43.1470282,-81.5337693,3.0,"$1,600",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,900,Month-to-month
+3539060,5832,Lucan Biddulph,43.1879263,-81.4052746,1.0,"$1,399",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,Not Available,1 Year
+3539060,5832,Lucan Biddulph,43.187811,-81.402843,2.0,"$2,300",Bedrooms: 3,Bathrooms: 3,N,0.0,N,"1,500",1 Year
+3539060,5832,Lucan Biddulph,43.2185024,-81.4059186,1.0,"$1,000",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,350",1 Year
+3539060,5832,Lucan Biddulph,43.1879263,-81.4052746,1.0,"$1,425",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,Not Available,1 Year
+3539060,5832,Lucan Biddulph,43.1909469,-81.4022476,1.0,"$1,175",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,600,1 Year
+3539060,5832,Lucan Biddulph,43.1966512,-81.4011474,5.0,"$2,300",Bedrooms: 3 + Den,Bathrooms: 3,N,0.0,N,"1,600",1 Year
+3540010,8034,Bluewater,43.4336018,-81.5053346,1.0,"$1,595",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"1,000",1 Year
+3540010,8034,Bluewater,43.4313739,-81.510504,1.0,"$1,450",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,800,1 Year
+3540010,8034,Bluewater,43.4218727,-81.6254497,1.0,"$1,250",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,900,1 Year
+3540010,8034,Bluewater,43.5609071,-81.6960075,6.0,"$1,700",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,700,1 Year
+3540025,8184,Central Huron,43.6172804,-81.5393953,1.0,"$2,200",Bedrooms: 2 + Den,Bathrooms: 2,N,1.0,Y,"2,000",1 Year
+3540028,8454,Goderich,43.7363519,-81.7069893,1.0,"$1,340",Bedrooms: 1,Bathrooms: 1,N,0.0,N,650,1 Year
+3540028,8454,Goderich,43.7307458,-81.7083057,1.0,"$1,695",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,Not Available,1 Year
+3540028,8454,Goderich,43.7434946,-81.7121255,1.0,"$1,800",Bedrooms: 1,Bathrooms: 1,N,0.0,N,925,1 Year
+3540028,8454,Goderich,43.7363519,-81.7069893,1.0,"$1,350",Bedrooms: 1,Bathrooms: 1,N,0.0,N,650,1 Year
+3540040,9850,Huron East,43.7444279,-81.2498314,1.0,"$1,050",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,500,1 Year
+3540055,5271,North Huron,43.7338834,-81.4291705,6.0,"$1,950",Bedrooms: 2,Bathrooms: 2,Y,1.0,Y,"1,255",1 Year
+3540055,5271,North Huron,43.8879476,-81.3116601,1.0,"$1,089",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,350,1 Year
+3540063,5744,Ashfield-Colborne-Wawanosh,43.9534018,-81.5377013,2.0,"$2,400",Bedrooms: 3 + Den,Bathrooms: 1.5,N,0.0,Y,"1,500",1 Year
+3541004,6330,South Bruce,44.0367625,-81.1416691,1.0,$900,Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,1,1 Year
+3541004,6330,South Bruce,43.9748703,-81.0754657,3.0,"$1,600",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,200",Month-to-month
+3541015,8424,Huron-Kinloss,43.9633993,-81.5130095,1.0,"$1,250",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,750,1 Year
+3541015,8424,Huron-Kinloss,43.9619076,-81.5109482,1.0,"$1,100",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,500,1 Year
+3541015,8424,Huron-Kinloss,43.9633993,-81.5130095,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,800,1 Year
+3541015,8424,Huron-Kinloss,44.1544692,-81.6559936,1.0,"$2,495",Bedrooms: 2,Bathrooms: 2,Y,1.0,Y,"1,018",1 Year
+3541043,7627,Arran-Elderslie,44.294694,-81.094187,1.0,"$1,100",Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,300,Month-to-month
+3541043,7627,Arran-Elderslie,44.3048394,-81.2722514,1.0,"$1,095",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,700,Month-to-month
+3541043,7627,Arran-Elderslie,44.4820219,-81.1467819,2.0,"$3,500",Bedrooms: 5+,Bathrooms: 2,N,0.0,N,"3,000",1 Year
+3541043,7627,Arran-Elderslie,44.3027577,-81.0967116,2.0,"$2,000",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"1,100",1 Year
+3541055,9434,South Bruce Peninsula,44.8029697,-81.0867124,2.0,"$2,300",Bedrooms: 1,Bathrooms: 1,Y,0.0,Y,"1,050",Month-to-month
+3541055,9434,South Bruce Peninsula,44.7386461,-81.13094,1.0,"$1,100",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,700,1 Year
+3541055,9434,South Bruce Peninsula,44.536986,-81.178444,2.0,"$2,400",Bedrooms: 3 + Den,Bathrooms: 2,N,0.0,N,"1,600",1 Year
+3541055,9434,South Bruce Peninsula,44.67796,-81.25754,1.0,"$1,350",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,750,Month-to-month
+3541055,9434,South Bruce Peninsula,44.6053978,-81.2684019,3.0,"$1,600",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,"1,200",Month-to-month
+3541055,9434,South Bruce Peninsula,44.642183,-81.2683163,2.0,"$1,600",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,800,Month-to-month
+3541055,9434,South Bruce Peninsula,44.8032067,-81.2451991,2.0,"$2,950",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"1,400",Month-to-month
+3541055,9434,South Bruce Peninsula,44.6373764,-81.268918,2.0,$500,Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,500,Month-to-month
+3541055,9434,South Bruce Peninsula,44.6296021,-81.2650823,2.0,"$2,000",Bedrooms: 2,Bathrooms: 2,N,0.0,N,"1,800",1 Year
+3541055,9434,South Bruce Peninsula,44.7417321,-81.1460154,5.0,"$2,250",Bedrooms: 2,Bathrooms: 1,N,1.0,N,"1,500",1 Year
+3541057,1188,Saugeen 29,44.5305984,-81.3289397,2.0,"$2,400",Bedrooms: 2,Bathrooms: 2,Y,1.0,Y,"1,800",1 Year
+3541057,1188,Saugeen 29,44.5305984,-81.3289397,2.0,"$2,400",Bedrooms: 2,Bathrooms: 2,Y,1.0,Y,"1,800",1 Year
+3541069,4356,Northern Bruce Peninsula,44.9474162,-81.278211,1.0,"$1,750",Bedrooms: 2 + Den,Bathrooms: 1,Y,1.0,Y,"1,700",1 Year
+3541069,4356,Northern Bruce Peninsula,44.9889554,-81.3621192,2.0,"$2,900",Bedrooms: 4,Bathrooms: 2,Y,1.0,Y,"2,000",Month-to-month
+3542005,9687,Southgate,44.202084,-80.485992,2.0,"$2,300",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"1,600",1 Year
+3542005,9687,Southgate,44.175164,-80.3793157,2.0,"$2,500",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,700",Month-to-month
+3542005,9687,Southgate,44.167665,-80.393568,2.0,"$2,600",Bedrooms: 3,Bathrooms: 3,N,0.0,N,"1,850",1 Year
+3542005,9687,Southgate,44.1737914,-80.3866257,6.0,"$1,850",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,000",1 Year
+3542005,9687,Southgate,44.174122,-80.3803851,2.0,"$2,500",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,600",1 Year
+3542005,9687,Southgate,44.1740151,-80.3837523,2.0,"$2,499",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"2,400",1 Year
+3542005,9687,Southgate,44.1716821,-80.3831851,2.0,"$3,000",Bedrooms: 4,Bathrooms: 3,N,0.0,N,"1,750",1 Year
+3542005,9687,Southgate,44.167665,-80.393568,2.0,"$2,650",Bedrooms: 3,Bathrooms: 3.5,N,0.0,N,"1,830",1 Year
+3542005,9687,Southgate,44.1696338,-80.388169,2.0,"$2,600",Bedrooms: 4 + Den,Bathrooms: 3.5,N,0.0,N,"2,900",1 Year
+3542005,9687,Southgate,44.1692813,-80.3841636,2.0,"$2,800",Bedrooms: 4,Bathrooms: 3,N,0.0,N,"2,600",1 Year
+3542029,8503,Hanover,44.1537975,-81.016669,1.0,$699,Bedrooms: Bachelor/Studio,Bathrooms: 1,N,0.0,N,1,1 Year
+3542029,8503,Hanover,44.1530174,-81.0308675,1.0,"$1,725",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,850,1 Year
+3542029,8503,Hanover,44.1530174,-81.0308675,1.0,"$1,615",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,670,1 Year
+3542029,8503,Hanover,44.1530174,-81.0308675,1.0,"$1,470",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,500,1 Year
+3542029,8503,Hanover,44.1441801,-81.0238347,1.0,"$1,600",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,766,1 Year
+3542029,8503,Hanover,44.1526004,-81.0254145,1.0,$700,Bedrooms: 1,Bathrooms: 1,N,0.0,N,1,1 Year
+3542029,8503,Hanover,44.1530174,-81.0308675,1.0,"$1,595",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,500,1 Year
+3542029,8503,Hanover,44.1537975,-81.016669,1.0,$700,Bedrooms: Bachelor/Studio,Bathrooms: 1,N,0.0,N,1,1 Year
+3542029,8503,Hanover,44.1523806,-81.0329134,1.0,"$1,725",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,850,1 Year
+3542029,8503,Hanover,44.1441801,-81.0238347,1.0,"$1,535",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,650,1 Year
+3542029,8503,Hanover,44.1530174,-81.0308675,1.0,"$1,700",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,670,1 Year
+3542029,8503,Hanover,44.1540728,-81.0318813,6.0,"$1,650",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,700,1 Year
+3542029,8503,Hanover,44.1529319,-81.0269844,6.0,"$1,575",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,"1,100",1 Year
+3542029,8503,Hanover,44.1546874,-81.0302519,2.0,"$2,300",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"1,500",1 Year
+3542029,8503,Hanover,44.1526004,-81.0254145,2.0,"$2,000",Bedrooms: 2,Bathrooms: 1,N,0.0,N,"1,250",1 Year
+3542037,7430,Chatsworth,44.4606486,-80.9007615,6.0,"$1,800",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,700,Month-to-month
+3542037,7430,Chatsworth,44.3446059,-80.9263036,2.0,"$2,500",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,"1,000",1 Year
+3542045,9290,The Blue Mountains,44.5617896,-80.4529392,3.0,"$1,900",Bedrooms: 1,Bathrooms: 1,Y,1.0,N,600,1 Year
+3542045,9290,The Blue Mountains,44.5567766,-80.4882672,1.0,"$1,350",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,450,1 Year
+3542045,9290,The Blue Mountains,44.5368493,-80.3794576,5.0,"$3,200",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,600",1 Year
+3542045,9290,The Blue Mountains,44.5332533,-80.3413717,4.0,"$2,600",Bedrooms: 1,Bathrooms: 1,Y,0.0,Y,900,Not Available
+3542045,9290,The Blue Mountains,44.5037224,-80.3094719,4.0,"$2,800",Bedrooms: 2,Bathrooms: 2,N,0.0,N,848,1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$2,800",Bedrooms: 4,Bathrooms: 3,Y,1.0,Y,"2,000",1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$3,000",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,200",1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$2,950",Bedrooms: 3,Bathrooms: 2.5,N,0.0,N,"1,670",1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$3,400",Bedrooms: 4,Bathrooms: 2.5,N,0.0,N,"2,300",1 Year
+3542045,9290,The Blue Mountains,44.4998694,-80.3087037,1.0,"$1,300",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,500,1 Year
+3542045,9290,The Blue Mountains,44.4999031,-80.2858597,4.0,"$2,650",Bedrooms: 2,Bathrooms: 2,Y,0.0,N,920,1 Year
+3542045,9290,The Blue Mountains,44.5332533,-80.3413717,4.0,"$2,300",Bedrooms: 1,Bathrooms: 1,Y,0.0,Y,900,Not Available
+3542045,9290,The Blue Mountains,44.5016513,-80.287161,4.0,"$2,575",Bedrooms: 2,Bathrooms: 2,N,0.0,N,950,1 Year
+3542045,9290,The Blue Mountains,44.4989036,-80.2873256,4.0,"$2,650",Bedrooms: 2,Bathrooms: 2,N,0.0,N,848,1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$6,500",Bedrooms: 5+,Bathrooms: 3,N,0.0,N,"3,700",1 Year
+3542045,9290,The Blue Mountains,44.5617896,-80.4529392,2.0,"$2,600",Bedrooms: 3,Bathrooms: 1.5,N,0.0,N,"1,500",1 Year
+3542045,9290,The Blue Mountains,44.4940717,-80.2990246,2.0,"$3,000",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,400",1 Year
+3544053,7521,Muskoka Lakes,45.0731829,-79.3847509,1.0,"$1,000",Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,650,Month-to-month
+3544053,7521,Muskoka Lakes,45.0155012,-79.614664,1.0,"$2,600",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,"1,000",1 Year
+3544053,7521,Muskoka Lakes,45.1575161,-79.6581637,6.0,"$2,200",Bedrooms: 2,Bathrooms: 1,N,0.0,N,900,1 Year
+3544053,7521,Muskoka Lakes,45.18564,-79.39746,2.0,"$2,600",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,"1,000",1 Year
+3544065,2856,Georgian Bay,44.8660745,-79.8184258,5.0,"$2,499",Bedrooms: 2,Bathrooms: 2,N,0.0,N,"1,100",1 Year
+3544065,2856,Georgian Bay,44.847397,-79.7652839,2.0,"$3,500",Bedrooms: 3,Bathrooms: 3,N,0.0,N,"3,000",1 Year
+3546015,6962,Minden Hills,44.9271767,-78.725375,2.0,"$2,200",Bedrooms: 2,Bathrooms: 2,N,0.0,N,"1,350",1 Year
+3546024,7240,Dysart et al,45.0414619,-78.4182929,1.0,"$1,000",Bedrooms: Bachelor/Studio,Bathrooms: 1,N,0.0,Y,"50,000",1 Year
+3546024,7240,Dysart et al,45.0472004,-78.5068228,3.0,"$2,000",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,500",1 Year
+3547003,7602,McNab/Braeside,45.4990177,-76.5171763,2.0,"$2,150",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"2,000",1 Year
+3547003,7602,McNab/Braeside,45.4434424,-76.3707658,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,600,1 Year
+3547003,7602,McNab/Braeside,45.368127,-76.5065689,6.0,"$2,850",Bedrooms: 4,Bathrooms: 3,N,0.0,Y,"2,700",1 Year
+3547003,7602,McNab/Braeside,45.3574832,-76.486381,1.0,"$1,195",Bedrooms: 1 + Den,Bathrooms: 1,N,0.0,Y,550,1 Year
+3547003,7602,McNab/Braeside,45.4658182,-76.4069648,5.0,"$2,095",Bedrooms: 3,Bathrooms: 1.5,N,0.0,N,"1,400",1 Year
+3547030,4249,Madawaska Valley,45.5242819,-77.6927128,1.0,"$1,400",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,"1,000",Month-to-month
+3547035,3841,Bonnechere Valley,45.5371257,-77.0972647,1.0,"$1,075",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,1 Year
+3547035,3841,Bonnechere Valley,45.5271805,-77.1179419,2.0,"$1,600",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,200",1 Year
+3547043,2961,Admaston/Bromley,45.508593,-76.938432,2.0,"$1,900",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"1,050",Month-to-month
+3547048,8298,Renfrew,45.4749199,-76.6877186,2.0,"$1,700",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,850,1 Year
+3547048,8298,Renfrew,45.4713045,-76.697681,5.0,"$1,400",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,1 Year
+3547048,8298,Renfrew,45.4718665,-76.6841393,6.0,"$2,300",Bedrooms: 3,Bathrooms: 2,N,0.0,Y,"2,000",1 Year
+3547048,8298,Renfrew,45.4762162,-76.6951444,2.0,"$1,750",Bedrooms: 4,Bathrooms: 1,N,0.0,N,700,1 Year
+3547048,8298,Renfrew,45.4775982,-76.6980989,2.0,"$1,600",Bedrooms: 2,Bathrooms: 1,N,0.0,N,1,1 Year
+3547048,8298,Renfrew,45.4768323,-76.6951055,2.0,$800,Bedrooms: 1,Bathrooms: 1,N,0.0,Y,160,Month-to-month
+3547056,7467,Whitewater Region,45.6296149,-76.8811281,1.0,"$1,700",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,"1,200",1 Year
+3547056,7467,Whitewater Region,45.6322185,-76.8854099,3.0,"$1,275",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,1,1 Year
+3547056,7467,Whitewater Region,45.7357254,-76.8631085,2.0,"$1,900",Bedrooms: 3,Bathrooms: 1.5,N,0.0,Y,"1,200",1 Year
+3547070,3306,North Algona Wilberforce,45.6863084,-77.1419909,1.0,"$2,000",Bedrooms: 2,Bathrooms: 1,N,0.0,N,950,1 Year
+3547070,3306,North Algona Wilberforce,45.6863084,-77.1419909,1.0,"$1,800",Bedrooms: 2,Bathrooms: 1,N,0.0,N,950,1 Year
+3547075,9942,Laurentian Valley,45.8239353,-77.0846175,1.0,"$1,500",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,Not Available,1 Year
+3547075,9942,Laurentian Valley,45.8239353,-77.0846175,1.0,"$1,550",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,Not Available,1 Year
+3547075,9942,Laurentian Valley,45.8030221,-77.1517997,1.0,"$1,350",Bedrooms: 2,Bathrooms: 1,N,0.0,N,1,1 Year
+3547075,9942,Laurentian Valley,45.8184714,-77.1423893,2.0,"$2,000",Bedrooms: 3,Bathrooms: 1,N,0.0,N,800,1 Year
+3547075,9942,Laurentian Valley,45.8125951,-77.0778202,5.0,"$2,050",Bedrooms: 4,Bathrooms: 1.5,N,0.0,N,1,1 Year
+3547090,3063,Laurentian Hills,46.0964894,-77.5541664,2.0,"$2,500",Bedrooms: 4 + Den,Bathrooms: 2,Y,1.0,Y,"1,800",1 Year
+3547090,3063,Laurentian Hills,46.0964894,-77.5541664,2.0,"$2,000",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"1,650",1 Year
+3547090,3063,Laurentian Hills,46.0964894,-77.5541664,2.0,$675,Bedrooms: 5+,Bathrooms: 2,Y,1.0,Y,"2,000",Month-to-month
+3547096,4301,Deep River,46.1030627,-77.4948339,1.0,$990,Bedrooms: 1 + Den,Bathrooms: 1,Y,1.0,Y,"4,200",1 Year
+3547096,4301,Deep River,46.0999474,-77.4891968,1.0,"$1,400",Bedrooms: 2,Bathrooms: 1,N,0.0,N,700,1 Year
+3547096,4301,Deep River,46.1075598,-77.5061484,4.0,"$1,750",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,850,1 Year
+3547096,4301,Deep River,46.0979741,-77.4878794,2.0,"$2,000",Bedrooms: 3,Bathrooms: 2,N,0.0,N,1,1 Year
+3548021,2177,Mattawa,46.31748,-78.702193,2.0,"$1,500",Bedrooms: 3,Bathrooms: 1,N,0.0,N,"1,050",1 Year
+3549014,2761,Perry,45.5362275,-79.2655035,1.0,"$1,050",Bedrooms: 1,Bathrooms: 1,N,1.0,N,600,1 Year
+3549014,2761,Perry,45.4572214,-79.2475094,1.0,"$1,500",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,680,1 Year
+3549032,6909,Parry Sound,45.3511637,-80.0456553,4.0,"$2,100",Bedrooms: 2,Bathrooms: 1.5,Y,1.0,Y,"1,071",1 Year
+3549032,6909,Parry Sound,45.3407072,-80.0315481,1.0,"$1,195",Bedrooms: 1 + Den,Bathrooms: 1,N,0.0,N,750,1 Year
+3549032,6909,Parry Sound,45.3407072,-80.0315481,6.0,"$1,800",Bedrooms: 1,Bathrooms: 1.5,N,1.0,Y,"1,500",1 Year
+3549032,6909,Parry Sound,45.3407072,-80.0315481,6.0,"$2,700",Bedrooms: 3,Bathrooms: 1,N,1.0,Y,"1,800",Month-to-month
+3549039,963,Whitestone,45.683333,-79.983333,2.0,"$2,200",Bedrooms: 2 + Den,Bathrooms: 2,N,0.0,Y,"1,000",Month-to-month
+3549046,1689,Strong,45.7773323,-79.3693655,1.0,"$1,250",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,800,1 Year
+3549060,3655,Powassan,46.0807239,-79.368324,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,700,1 Year
+3549060,3655,Powassan,45.9868949,-79.359553,1.0,"$1,100",Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,400,Month-to-month
+3549066,4083,Callander,46.222198,-79.366393,1.0,"$1,000",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,Month-to-month
+3549066,4083,Callander,46.222198,-79.366393,1.0,"$1,500",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,700,Month-to-month
+3549066,4083,Callander,46.1950032,-79.417362,2.0,"$3,000",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,700",1 Year
+3549096,2304,"Parry Sound, Unorganized, Centre Part",45.9543402,-79.6063704,1.0,"$1,050",Bedrooms: 1,Bathrooms: 1,N,1.0,Y,600,1 Year
+3549096,2304,"Parry Sound, Unorganized, Centre Part",46.0151586,-80.5803588,1.0,"$1,600",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,"1,000",1 Year
+3549096,2304,"Parry Sound, Unorganized, Centre Part",45.8252067,-79.5996102,2.0,"$1,300",Bedrooms: 1,Bathrooms: 1,N,0.0,Y,640,1 Year
+3549096,2304,"Parry Sound, Unorganized, Centre Part",45.7705912,-80.5738542,2.0,"$2,000",Bedrooms: 3,Bathrooms: 1,N,0.0,N,700,Month-to-month
+3552004,1301,St.-Charles,46.3623892,-80.4220725,2.0,"$2,000",Bedrooms: 3,Bathrooms: 2,N,0.0,Y,"2,000",1 Year
+3552013,2898,Markstay-Warren,46.442577,-80.308248,1.0,"$1,395",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,000",1 Year
+3552013,2898,Markstay-Warren,46.4422173,-80.3060042,1.0,"$1,195",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,"1,000",1 Year
+3552031,395,Nairn and Hyman,46.330765,-81.582477,1.0,$800,Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,000",Month-to-month
+3554068,8229,Kirkland Lake,48.152102,-80.0315739,2.0,"$4,500",Bedrooms: 4,Bathrooms: 1.5,N,1.0,Y,"2,800",1 Year
+3554068,8229,Kirkland Lake,48.1455815,-80.0394765,1.0,$950,Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,700,Month-to-month
+3554068,8229,Kirkland Lake,48.1433852,-80.0394531,1.0,"$1,100",Bedrooms: 2,Bathrooms: 1,Y,0.0,Y,900,1 Year
+3554068,8229,Kirkland Lake,48.1433852,-80.0394531,1.0,"$1,350",Bedrooms: 2,Bathrooms: 1,Y,0.0,Y,900,1 Year
+3554068,8229,Kirkland Lake,48.1543978,-80.0228628,1.0,$800,Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,500,Month-to-month
+3554068,8229,Kirkland Lake,48.1492466,-80.0320839,6.0,"$1,725",Bedrooms: 3,Bathrooms: 1,N,1.0,Y,"1,000",1 Year
+3554068,8229,Kirkland Lake,48.1496866,-80.035327,6.0,"$1,250",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,"1,234",1 Year
+3556031,4539,Iroquois Falls,48.7589049,-80.6903384,1.0,$750,Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,Month-to-month
+3556031,4539,Iroquois Falls,48.703772,-80.7839544,1.0,"$1,100",Bedrooms: 2,Bathrooms: 1,N,1.0,Y,750,1 Year
+3556042,5434,Cochrane,49.0650259,-81.0299298,2.0,"$1,900",Bedrooms: 4 + Den,Bathrooms: 1.5,N,0.0,N,1,1 Year
+3556048,1232,Smooth Rock Falls,49.276084,-81.6122877,6.0,$850,Bedrooms: 4,Bathrooms: 1,Y,1.0,Y,"1,300",Month-to-month
+3556066,8342,Kapuskasing,49.4112043,-82.4044824,2.0,"$1,500",Bedrooms: 2,Bathrooms: 1.5,N,0.0,N,900,1 Year
+3556066,8342,Kapuskasing,49.377209,-82.403369,1.0,"$1,300",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,"1,200",1 Year
+3557011,993,Laird,46.3565155,-84.1045173,2.0,"$1,750",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,"1,000",1 Year
+3557038,3622,Blind River,46.1864276,-82.9541373,1.0,$750,Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,500,1 Year
+3557038,3622,Blind River,46.182346,-82.9014419,2.0,"$1,400",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,"1,250",1 Year
+3557039,745,Spanish,46.1947959,-82.3422779,2.0,"$1,250",Bedrooms: 2,Bathrooms: 1,N,0.0,N,"1,000",1 Year
+3557074,1193,Garden River 14,46.509959,-84.092009,2.0,"$2,500",Bedrooms: 3,Bathrooms: 2,N,0.0,N,"2,200",1 Year
+3558028,2959,Shuniah,48.5432512,-88.9067113,2.0,"$3,000",Bedrooms: 3 + Den,Bathrooms: 1,N,0.0,Y,"1,500",Month-to-month
+3558028,2959,Shuniah,48.5027539,-89.0279944,2.0,"$1,500",Bedrooms: 2 + Den,Bathrooms: 1,N,0.0,Y,"1,300",Month-to-month
+3558051,1055,Schreiber,48.8158836,-87.2684336,5.0,$850,Bedrooms: 2,Bathrooms: 1,N,0.0,Y,750,1 Year
+3558054,1524,Terrace Bay,48.783999,-87.0966258,2.0,"$2,000",Bedrooms: 3 + Den,Bathrooms: 3,N,0.0,N,"3,100",1 Year
+3558075,4323,Greenstone,49.7244094,-86.9501357,1.0,$850,Bedrooms: Bachelor/Studio,Bathrooms: 1,Y,1.0,Y,400,1 Year
+3558075,4323,Greenstone,49.781666,-86.534706,1.0,$850,Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,780,1 Year
+3558090,6113,"Thunder Bay, Unorganized",48.9532461,-88.6958515,2.0,"$1,248",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,600,1 Year
+3558090,6113,"Thunder Bay, Unorganized",48.8906082,-86.6058079,2.0,"$2,000",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,"1,150",1 Year
+3558090,6113,"Thunder Bay, Unorganized",49.5292597,-86.9735127,2.0,"$1,500",Bedrooms: 3,Bathrooms: 1,N,0.0,Y,"1,000",1 Year
+3558090,6113,"Thunder Bay, Unorganized",48.8356718,-87.5122878,2.0,"$1,500",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,500,Month-to-month
+3559012,7749,Fort Frances,48.6121155,-93.3911282,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3559012,7749,Fort Frances,48.6121155,-93.3911282,1.0,"$1,400",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3559012,7749,Fort Frances,48.610134,-93.3972146,1.0,"$1,200",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,600,1 Year
+3559012,7749,Fort Frances,48.6099494,-93.3955282,1.0,"$1,200",Bedrooms: 1,Bathrooms: 1,Y,1.0,Y,500,Month-to-month
+3559012,7749,Fort Frances,48.6121155,-93.3911282,1.0,"$1,400",Bedrooms: 1 + Den,Bathrooms: 1,Y,1.0,Y,900,1 Year
+3559012,7749,Fort Frances,48.6121155,-93.3911282,6.0,"$2,100",Bedrooms: 3,Bathrooms: 1,Y,1.0,Y,"2,800",1 Year
+3559019,1447,Emo,48.6322193,-93.8350254,6.0,"$1,800",Bedrooms: 3,Bathrooms: 2,Y,1.0,Y,"1,500",1 Year
+3560090,7294,"Kenora, Unorganized",49.725858,-94.334363,2.0,"$3,000",Bedrooms: 2,Bathrooms: 1,Y,1.0,Y,"1,440",1 Year
+3560090,7294,"Kenora, Unorganized",49.69367,-92.494754,2.0,"$1,800",Bedrooms: 2,Bathrooms: 1,N,0.0,Y,"1,153",1 Year
+3560090,7294,"Kenora, Unorganized",49.725858,-94.334363,2.0,"$3,200",Bedrooms: 2 + Den,Bathrooms: 2,Y,1.0,Y,"1,500",Month-to-month
