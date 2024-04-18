@@ -3,4 +3,4 @@ pandas
 joblib
 plotly
 folium
-scikit-learn
+
