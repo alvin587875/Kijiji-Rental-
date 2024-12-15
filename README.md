@@ -9,118 +9,92 @@ Analyses of rental property for small community all around Canada
 
 # Kijiji Rental Price Prediction Project
 
-This project focuses on analyzing and predicting rental property prices using Kijiji's real estate dataset. By leveraging various machine learning models, this project aims to provide insights into rental price trends and build predictive tools for price estimation.
+
+This project aims to predict rental property prices in Ontario using machine learning models. The project involves Exploratory Data Analysis (EDA), preprocessing, and training multiple models to classify rental prices. Additionally, a Streamlit web application has been deployed to make predictions user-friendly and interactive.
 
 ## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
-- [Key Results](#key-results)
-- [Future Enhancements](#future-enhancements)
+1. [Project Overview](#project-overview)
+2. [Team Members](#team-members)
+3. [Technologies Used](#technologies-used)
+4. [Project Structure](#project-structure)
+5. [Key Features](#key-features)
+6. [How to Run Locally](#how-to-run-locally)
+7. [Deployed Application](#deployed-application)
 
 ## Project Overview
 
-Kijiji is a popular platform for buying, selling, and renting goods and services. This project specifically addresses the rental property market by:
+The project leverages machine learning to classify rental property prices into different categories (e.g., low, medium, high). By preprocessing the data and applying various models like Logistic Regression, Decision Tree, and Random Forest, we evaluate which model performs best. The selected model is then integrated into a Streamlit application for deployment.
 
-- Performing **Exploratory Data Analysis (EDA)** to clean and preprocess the data.
-- Using **machine learning algorithms** to predict rental prices based on features like property type, size, and amenities.
-- Evaluating and comparing the performance of multiple regression models.
-- Identifying key features influencing rental prices.
+## Team Members
 
-## Features
-
-- **Price Prediction:** Predict rental property prices based on features such as bedrooms, bathrooms, size, and location.
-- **Feature Analysis:** Understand the key drivers of rental prices through feature importance analysis.
-- **Model Comparison:** Evaluate models like Linear Regression, Decision Tree, Random Forest, and Gradient Boosting.
-- **Categorical Classification (Optional):** Categorize rental properties into price ranges (low, medium, high).
-
-## Dataset
-
-- **Source:** Kijiji real estate dataset.
-- **Key Attributes:**
-  - `Bedrooms`: Number of bedrooms in the property.
-  - `Bathrooms`: Number of bathrooms in the property.
-  - `Size`: Size of the property in square feet.
-  - `Type`: Type of property (e.g., Apartment, Condo, House).
-  - `Utilities`: Availability of Hydro, Heat, and Water.
-  - `Price`: Rental price of the property.
+- **Vanshnoor Singh Narang**
+- **Akashdeep Singh**
+- **Alvin Mathew**
 
 ## Technologies Used
 
-- **Programming Language:** Python
-- **Libraries:**
-  - `pandas`, `numpy` for data manipulation and analysis.
-  - `scikit-learn` for machine learning algorithms and preprocessing.
-  - `matplotlib` for data visualization.
-- **Tools:** Jupyter Notebook, Google Colab, GitHub
-
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/kijiji-price-prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd kijiji-price-prediction
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the preprocessing and modeling scripts:
-   ```bash
-   python eda_ml_work_integrated_02.py
-   python modelling_kijiji.py
-   ```
-5. View results in the output CSV files and generated plots.
+- **Python**
+- **Pandas** and **NumPy** for data manipulation
+- **Matplotlib** and **Seaborn** for visualizations
+- **Scikit-learn** for machine learning models and preprocessing
+- **Streamlit** for building the web application
 
 ## Project Structure
 
+```plaintext
+┌── data/                  # Contains raw and processed datasets
+├── notebooks/             # Jupyter notebooks for EDA and modeling
+├── streamlit_app.py      # Streamlit application
+├── models/               # Saved machine learning models
+├── README.md             # Project documentation
 ```
-.
-├── data/                     # Dataset files
-├── eda_ml_work_integrated_02.py  # Data cleaning and EDA script
-├── modelling_kijiji.py          # Machine learning models
-├── requirements.txt          # Dependencies
-├── README.md                 # Project description (this file)
-```
 
-## Key Results
+## Key Features
 
-- **Best Model:** [e.g., Gradient Boosting Regressor]
-- **Performance Metrics:**
-  - Mean Squared Error (MSE): [Value]
-  - R-squared (R²): [Value]
-- **Feature Importance:**
-  - [Feature 1]: [Importance Value]
-  - [Feature 2]: [Importance Value]
+- **Data Preprocessing**: Handling missing values, encoding categorical data, and scaling numerical features.
+- **Model Training**: Includes Logistic Regression, Decision Tree, and Random Forest models.
+- **Evaluation**: Classification reports to compare model performances.
+- **Deployment**: A user-friendly Streamlit web app to predict rental prices.
 
-## Future Enhancements
+## How to Run Locally
 
-- **Hyperparameter Tuning:** Optimize model parameters for better performance.
-- **Additional Features:** Incorporate more features like location-based data or proximity to amenities.
-- **Classification Models:** Develop models for predicting price categories.
-- **Interactive Dashboard:** Create a user-friendly interface for price prediction.
+### Prerequisites
 
-## Contributing
+- Python 3.8 or above
+- Required libraries listed in `requirements.txt`
 
-Contributions are welcome! Feel free to submit a pull request or open an issue for discussion.
+### Steps
 
-## License
+1. Clone this repository:
+   ```bash
+   git clone <[repository_url](https://github.com/alvin587875/Kijiji-Rental-/edit/main/)>
+   cd <Kijiji-Rental>
+   ```
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+
+4. Open the provided URL in your browser to access the app.
+
+## Deployed Application
+
+The application is deployed using Streamlit and can be accessed via the following link:
+
+[Streamlit App](#)
+
+Feel free to test the features and make predictions on rental property prices.
 
 ---
 
-**Author:** [Your Name]\
-**Contact:** [Your Email]
+For any issues or suggestions, please open an issue in this repository. Thank you!
 
-Thank you
 
 
 
